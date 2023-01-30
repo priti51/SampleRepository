@@ -7,7 +7,7 @@ public class Test_Class {
 		System.out.println("Welcome to Github.com");
 		System.out.println("Create sample repository");
 		System.out.println("publish repository");
-		System.out.println("Work completed");
+		System.out.println("Work compl");
 		
 		
 		
